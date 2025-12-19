@@ -1,4 +1,7 @@
 Hospitality Portal Management System (Java Swing)
+
+
+
 📌 Project Overview
 
 The Portal Management System is a Java Swing–based desktop application designed to manage hotel or service-based operations efficiently. The system supports core functionalities such as user authentication, room management, reservations, services, invoices, and staff handling, all integrated with a database for persistent data storage.
